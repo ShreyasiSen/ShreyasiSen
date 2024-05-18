@@ -1,4 +1,4 @@
-[![MasterHead](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1a5yyvhcgvhpw84eokpy.PNG)
+![MasterHead](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1a5yyvhcgvhpw84eokpy.PNG)
 <h1 align="center">Hi 👋, I'm Shreyasi Sen</h1>
 <h3 align="center">A passionate FullStack developer and a Competitive coder.</h3>
 <img align="right" alt="Coding" width="400" src="C:\Users\Shreyasi Sen\Desktop\animated_github.jpg">
