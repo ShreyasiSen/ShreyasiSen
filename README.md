@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MERN project** **https://mbbconsultancy.in/**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently invested in Competitive Coding
 
 - 🤝 I’m looking for help with **An AIML project**
 
