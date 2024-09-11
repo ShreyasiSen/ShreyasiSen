@@ -26,10 +26,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shreyasisen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyasisen" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shreyasisen05" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="learnerrrrr123" height="60" width="60" /></a>
+<!-- <a href="https://www.codechef.com/users/shreyasisen05" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="learnerrrrr123" height="60" width="60" /></a> -->
 <a href="https://www.hackerrank.com/shreyasisen05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shreyasisen05" height="30" width="50" /></a>
-<a href="https://codeforces.com/profile/shreyasi_sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shreyasi_sen" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shreyasi_sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyasi_sen" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/shreyasi_sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shreyasi_sen" height="30" width="40" /></a> -->
+<!-- <a href="https://www.leetcode.com/shreyasi_sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyasi_sen" height="30" width="40" /></a> -->
 <a href="https://auth.geeksforgeeks.org/user/shreyasi_sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shreyasi_sen" height="30" width="40" /></a>
 </p>
 
