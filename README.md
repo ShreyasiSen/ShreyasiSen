@@ -16,15 +16,10 @@
 - 📫 How to reach me **shreyasisen05@gmail.com**
 
 - ⚡ Fun fact **I think I am talkative**
-
-RESUME : https://github.com/ShreyasiSen/ShreyasiSen/blob/master/SHREYASI%20RESUME.pdf
   
 <h3 align="left">Achievements:</h3>
 <p align="left">
 
-- <b style="color:blue;"></b>Specialist in <b style="color:green;">Codeforces</b> <a href="https://codeforces.com/profile/shreyasi_sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shreyasi_sen" height="30" width="40" /></a><br>
-- <b style="color:blue;">Rated</b> Knight in <b style="color:green;">Leetcode</b> <a href="https://www.leetcode.com/shreyasi_sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyasi_sen" height="30" width="40" /></a><br>
-- <b style="color:blue;">3 ★</b> in <b style="color:green;">CodeChef</b> <a href="https://www.codechef.com/users/shreyasisen05" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="learnerrrrr123" height="60" width="60" /></a><br>
 - <b style="color:blue;">5 ★ Gold</b> in Problem Solving and CPP in <b style="color:green;">Hackerrank</b> <a href="https://www.hackerrank.com/shreyasisen05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shreyasisen05" height="30" width="50" /></a>
 </p>
 
