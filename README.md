@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I think I am talkative**
 
-RESUME : https://github.com/ShreyasiSen/ShreyasiSen/blob/master/SHREYASI%20RESUME.pdf
+RESUME : https://drive.google.com/drive/u/0/folders/1zS6ZAB9aKO1co2jtHo9cAAbbakUp4_sN
   
 <h3 align="left">Achievements:</h3>
 <p align="left">
