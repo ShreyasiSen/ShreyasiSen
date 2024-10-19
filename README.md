@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MERN project** **https://mbbconsultancy.in/**
+- 🔭 I’m a web developer who is passionate about learning new technologies and grow.
 
-- 🌱 I’m currently invested in Competitive Coding
+- 🌱 I’m also invested in solving algorithmic challenges across various competitive programming platforms.
 
-- 🤝 I’m looking for help with **An AIML project**
+- 🤝 I’m trying to learn about contributing to various open source projects.
 
 - 📫 How to reach me **shreyasisen05@gmail.com**
 
 - ⚡ Fun fact **I think I am talkative**
 
-RESUME : https://drive.google.com/drive/u/0/folders/1zS6ZAB9aKO1co2jtHo9cAAbbakUp4_sN
+RESUME : https://drive.google.com/file/d/1toCbCXjrc5fptvI_rukIbaWc-DS4-yE_/view?usp=sharing
   
 <h3 align="left">Achievements:</h3>
 <p align="left">
 
-- <b style="color:blue;"></b>Specialist in <b style="color:green;">Codeforces</b> <a href="https://codeforces.com/profile/shreyasi_sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shreyasi_sen" height="30" width="40" /></a><br>
-- <b style="color:blue;">Rated</b> Knight in <b style="color:green;">Leetcode</b> <a href="https://www.leetcode.com/shreyasi_sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyasi_sen" height="30" width="40" /></a><br>
+- <b style="color:blue;"></b>Specialist(top 12% nationally) in <b style="color:green;">Codeforces</b> <a href="https://codeforces.com/profile/shreyasi_sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shreyasi_sen" height="30" width="40" /></a><br>
+- <b style="color:blue;">Rated</b> Knight(Top 4% globally) in <b style="color:green;">Leetcode</b> <a href="https://www.leetcode.com/shreyasi_sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyasi_sen" height="30" width="40" /></a><br>
 - <b style="color:blue;">3 ★</b> in <b style="color:green;">CodeChef</b> <a href="https://www.codechef.com/users/shreyasisen05" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="learnerrrrr123" height="60" width="60" /></a><br>
 - <b style="color:blue;">5 ★ Gold</b> in Problem Solving and CPP in <b style="color:green;">Hackerrank</b> <a href="https://www.hackerrank.com/shreyasisen05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shreyasisen05" height="30" width="50" /></a>
 </p>
