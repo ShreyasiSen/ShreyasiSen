@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyasi Sen</h1>
 <h3 align="center">A passionate FullStack developer and a Competitive coder.</h3>
+Know me more : https://portfolio-next-ashy-nine.vercel.app/
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasisen&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasisen" /> </p>
@@ -17,7 +18,7 @@
 - ⚡ Fun fact **I think I am talkative**
 
 RESUME : https://drive.google.com/file/d/1toCbCXjrc5fptvI_rukIbaWc-DS4-yE_/view?usp=sharing
-  
+
 <h3 align="left">Achievements:</h3>
 <p align="left">
 
